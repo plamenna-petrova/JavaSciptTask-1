@@ -1,0 +1,10 @@
+
+input.one-line-input {
+    border: 2px solid dodgerblue;
+    margin: 20px;
+}
+
+textarea.multiple-line-textarea {
+    border: 2px solid red;
+    margin: 20px;
+}
